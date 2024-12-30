@@ -1,2 +1,2 @@
-https://capsule-render.vercel.app/api?type=rounded&color=green&height=150&section=header&text=Welcome&fontSize=70&animation=scaleIn
+https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=Footer%20Section&fontSize=50
 
