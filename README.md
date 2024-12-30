@@ -1,25 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=footer" />
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HANCOAL)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANCOAL)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HANCOAL&hide=contribs,prs&show_icons=true&theme=테마)
-
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
-</summary>
-   <br>
-  
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-
-</details>
-
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff6251,100:fffc41&height=120&text=안녕하세요%20한석현%20입니다!&animation=blink&fontColor=74a7fe&fontSize=40" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=social&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/Android-3DDC84?style=social&logo=Android&logoColor=white">
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=social&logo=Flutter&logoColor=white">
+          <img src="https://img.shields.io/badge/Node.js-339933?style=social&logo=Node.js&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=social&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Java-007396?style=social&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=Python&logoColor=white">
+          </div>
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div align= "center"> <a href=mailto:https://mail.google.com/mail/u/0/#inbox> <img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/#inbox"> </a>
+          </div>  <br> 
+    <div align= "center">  </div> 
+    </div>
+    
