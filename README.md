@@ -1,6 +1,9 @@
 # 코딩원숭이
 
-![Welcome Banner](https://user-images.githubusercontent.com/your-image-url-here/your-banner-filename.png)
+<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Han%20Coal&fontSize=150_render&animation=fadeIn" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hancoal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hancoal)
 
 ## 🛠 Tech Stacks
 | 분야        | 사용 기술            |
