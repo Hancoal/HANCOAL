@@ -1,27 +1,14 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ff6251,100:fffc41&height=120&text=안녕하세요%20한석현%20입니다!&animation=blink&fontColor=74a7fe&fontSize=40" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한화 SWCAMP_14기 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=social&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Android-3DDC84?style=social&logo=Android&logoColor=white">
-          <img src="https://img.shields.io/badge/Flutter-02569B?style=social&logo=Flutter&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=social&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=social&logo=Notion&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=social&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=social&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=social&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=social&logo=Python&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:https://mail.google.com/mail/u/0/#inbox> <img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/#inbox"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    
+# 코딩원숭이
+
+![Banner](https://user-images.githubusercontent.com/your-image-url-here)
+
+## 🛠 Tech Stacks
+| 분야        | 사용 기술            |
+|-------------|----------------------|
+| 프로그래밍 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| 프론트엔드 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) |
+| 백엔드     | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) |
+
+## 📫 Contact Me
+- **Email**: [Email](hancoal719898@gmail.com)
+- **GitHub**: [Profile](https://github.com/hancoal)
