@@ -17,6 +17,7 @@
 ## 🔗 My Other Repositories
 - [DB_IS_FREE](https://github.com/Hancoal/be14-1st-DB_IS_FREE-CHECK_GymPT) - 데이터베이스 프로젝트
 - [Go! Mentoring(gomen)](https://github.com/Hancoal/be14-2nd-tuna-GoMen) - 백앤드 프로젝트
+- [Go! Mentoring(gomen)](https://github.com/Hancoal/be14-3rd-Tuna-GoMen-Front-End) - 프론트앤드 프로젝트
 
 ## 📫 Contact Me
 - **Email**: [Email](hancoal719898@gmail.com)
